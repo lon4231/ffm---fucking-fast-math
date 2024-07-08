@@ -1,2 +1,2 @@
-# ffm---fucking-fast-math
+# ffm  fucking-fast-math
 fast math lib
